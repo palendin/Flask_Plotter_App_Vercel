@@ -6,8 +6,7 @@
           "use": "@vercel/python",
           "config": {
             "runtime": "python3.9",
-            "buildImage": "legacy",
-            "installCommand": "pip install pipenv && pipenv install --deploy --ignore-pipfile"
+            "buildImage": "legacy"
         }
       }
   ],
