@@ -1,0 +1,187 @@
+DEBUG:board:Debugging information at app start...
+DEBUG:board:Creating schema
+DEBUG:board:Schema created or already exists
+DEBUG:board:Tables created or already exist
+DEBUG:board:Current Environment: Development
+DEBUG:board:Using Database: postgresql://postgres:runescape@localhost/postgres?options=-csearch_path%3Dmessage_board
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.5.171:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:board:Debugging information at app start...
+DEBUG:board:Creating schema
+DEBUG:board:Schema created or already exists
+DEBUG:board:Tables created or already exist
+DEBUG:board:Current Environment: Development
+DEBUG:board:Using Database: postgresql://postgres:runescape@localhost/postgres?options=-csearch_path%3Dmessage_board
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 902-114-115
+DEBUG:board:Debugging information at app start...
+DEBUG:board:Creating schema
+DEBUG:board:Schema created or already exists
+DEBUG:board:Tables created or already exist
+DEBUG:board:Current Environment: Development
+DEBUG:board:Using Database: postgresql://postgres:runescape@localhost/postgres?options=-csearch_path%3Dmessage_board
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.5.171:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:board:Debugging information at app start...
+DEBUG:board:Creating schema
+DEBUG:board:Schema created or already exists
+DEBUG:board:Tables created or already exist
+DEBUG:board:Current Environment: Development
+DEBUG:board:Using Database: postgresql://postgres:runescape@localhost/postgres?options=-csearch_path%3Dmessage_board
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 902-114-115
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 19:20:57] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 19:20:57] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 19:20:57] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 19:20:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 19:21:04] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 19:21:04] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 19:21:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 19:21:08] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 19:21:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 19:21:15] "[32mPOST /register HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 19:21:15] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 19:21:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\wayne\\.vscode\\Flask_Plotter_App\\run.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:board:Debugging information at app start...
+DEBUG:board:Creating schema
+DEBUG:board:Schema created or already exists
+DEBUG:board:Tables created or already exist
+DEBUG:board:Current Environment: Development
+DEBUG:board:Using Database: postgresql://postgres:runescape@localhost/postgres?options=-csearch_path%3Dmessage_board
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 902-114-115
+INFO:werkzeug: * Detected change in 'c:\\Users\\wayne\\.vscode\\Flask_Plotter_App\\board\\extensions.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:board:Debugging information at app start...
+DEBUG:board:Creating schema
+DEBUG:board:Schema created or already exists
+DEBUG:board:Tables created or already exist
+DEBUG:board:Current Environment: Development
+DEBUG:board:Using Database: postgresql://postgres:runescape@localhost/postgres?options=-csearch_path%3Dmessage_board
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 902-114-115
+INFO:werkzeug: * Detected change in 'c:\\Users\\wayne\\.vscode\\Flask_Plotter_App\\board\\extensions.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:board:Debugging information at app start...
+DEBUG:board:Creating schema
+DEBUG:board:Schema created or already exists
+DEBUG:board:Tables created or already exist
+DEBUG:board:Current Environment: Development
+DEBUG:board:Using Database: postgresql://postgres:runescape@localhost/postgres?options=-csearch_path%3Dmessage_board
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 902-114-115
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 20:25:21] "GET /login HTTP/1.1" 200 -
+DEBUG:board:Debugging information at app start...
+DEBUG:board:Creating schema
+DEBUG:board:Schema created or already exists
+DEBUG:board:Tables created or already exist
+DEBUG:board:Current Environment: Development
+DEBUG:board:Using Database: postgresql://postgres:runescape@localhost/postgres?options=-csearch_path%3Dmessage_board
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.50.230:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:board:Debugging information at app start...
+DEBUG:board:Creating schema
+DEBUG:board:Schema created or already exists
+DEBUG:board:Tables created or already exist
+DEBUG:board:Current Environment: Development
+DEBUG:board:Using Database: postgresql://postgres:runescape@localhost/postgres?options=-csearch_path%3Dmessage_board
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 902-114-115
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:35:26] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:35:26] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:35:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:42:18] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:42:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:42:24] "[32mPOST /register HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:42:24] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:42:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:42:30] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:42:30] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:42:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:42:39] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:42:39] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:42:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:42:47] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:42:47] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:42:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:42:55] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:42:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:42:55] "GET /about HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:42:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:42:57] "GET /contact HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:42:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:42:58] "GET /contact/contact_info HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:02] "GET /posts HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:06] "GET /create HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:board:New post by wayne
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:12] "[32mPOST /create HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:12] "GET /posts HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:14] "GET /posts HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:23] "GET /plotter HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:23] "GET /dash/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:23] "GET /dash/_dash-component-suites/dash/deps/react-dom@16.v2_18_2m1734576613.14.0.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:23] "GET /dash/_dash-component-suites/dash/deps/prop-types@15.v2_18_2m1734576613.8.1.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:23] "GET /dash/_dash-component-suites/dash/deps/react@16.v2_18_2m1734576613.14.0.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:23] "GET /dash/_dash-component-suites/dash/deps/polyfill@7.v2_18_2m1734576613.12.1.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:23] "GET /dash/_dash-component-suites/dash_bootstrap_components/_components/dash_bootstrap_components.v1_6_0m1734577704.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:23] "GET /dash/_dash-component-suites/dash/dcc/dash_core_components-shared.v2_14_3m1734576613.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:23] "GET /dash/_dash-component-suites/dash/dash_table/bundle.v5_2_13m1734576613.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:23] "GET /dash/_dash-component-suites/dash/dash-renderer/build/dash_renderer.v2_18_2m1734576613.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:23] "GET /dash/_dash-component-suites/dash/dcc/dash_core_components.v2_14_3m1734576613.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:23] "GET /dash/_dash-component-suites/dash/html/dash_html_components.v2_0_20m1734576614.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:24] "GET /dash/_dash-layout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:24] "GET /dash/_dash-dependencies HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:24] "POST /dash/_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:24] "GET /dash/_dash-component-suites/dash/dcc/async-upload.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:37] "POST /dash/_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:38] "POST /dash/_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:38] "GET /dash/_dash-component-suites/dash/dash_table/async-highlight.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:38] "GET /dash/_dash-component-suites/dash/dash_table/async-table.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:42] "POST /dash/_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:43] "POST /dash/_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:43] "POST /dash/_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:43] "GET /dash/_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:44] "GET /dash/_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:44] "POST /dash/_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:44] "[35m[1mPOST /dash/_dash-update-component HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:44] "[35m[1mPOST /dash/_dash-update-component HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:44] "[35m[1mPOST /dash/_dash-update-component HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:44] "[35m[1mPOST /dash/_dash-update-component HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:44] "[35m[1mPOST /dash/_dash-update-component HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:44] "GET /dash/_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:46] "[35m[1mPOST /dash/_dash-update-component HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:51] "POST /dash/_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:51] "POST /dash/_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:51] "[35m[1mPOST /dash/_dash-update-component HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:51] "[35m[1mPOST /dash/_dash-update-component HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:51] "[35m[1mPOST /dash/_dash-update-component HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:52] "[35m[1mPOST /dash/_dash-update-component HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:59] "POST /dash/_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:43:59] "POST /dash/_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:44:06] "POST /dash/_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:44:06] "POST /dash/_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:44:08] "[35m[1mPOST /dash/_dash-update-component HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:44:13] "[35m[1mPOST /dash/_dash-update-component HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:45:02] "POST /dash/_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:45:07] "POST /dash/_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:45:08] "POST /dash/_dash-update-component HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:45:08] "[35m[1mPOST /dash/_dash-update-component HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2024 22:45:08] "[35m[1mPOST /dash/_dash-update-component HTTP/1.1[0m" 500 -
