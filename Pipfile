@@ -1,13 +1,9 @@
-[[
-source
-]]
+[[source]]
 url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
-[
-packages
-]
+[packages]
 Flask==3.0.3
 Flask-SQLAlchemy==3.1.1
 psycopg2-binary==2.9.9
@@ -55,7 +51,7 @@ urllib3==2.2.1
 Werkzeug==3.0.3
 zipp==3.18.1
 
-[
-requires
-]
+[dev-packages]
+
+[requires]
 python_version = "3.9"

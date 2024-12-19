@@ -8,3 +8,10 @@ the message board contains the following features:
 - route error handling
 - success and error message
 - logging for troubleshooting
+
+##### Using Vercel ######
+- if there is pip13 error, use Pipfile to specify python, mention buildImage : Legacy
+- befor deploying, verify that it works locally: 
+                                                    pip install pipenv
+                                                    pipenv install
+                                                    pipenv run python app.py
