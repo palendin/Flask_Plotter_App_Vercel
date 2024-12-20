@@ -3,12 +3,8 @@
   "builds": [
       {
           "src": "app.py",
-          "use": "@vercel/python",
-          "config": {
-            "runtime": "python3.12",
-            "pythonVersion": "3.12"
+          "use": "@vercel/python"
         }
-      }
   ],
   "routes": [
       {
