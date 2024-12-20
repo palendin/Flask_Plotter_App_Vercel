@@ -58,5 +58,5 @@ zipp = "==3.18.1"
 [
 requires
 ]
-python_version = "3.9"
+python_version = "3.12"
 Last edited 4 minutes ago

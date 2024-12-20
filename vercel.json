@@ -5,8 +5,8 @@
           "src": "app.py",
           "use": "@vercel/python",
           "config": {
-            "runtime": "python3.9",
-            "buildImage": "legacy"
+            "runtime": "python3.12",
+            "pythonVersion": "3.12"
         }
       }
   ],
